@@ -48,10 +48,14 @@ The environment allows you to:
 
 Recommended version: **Node 18 LTS or Node 20 LTS**
 
-Download:  
+Download and install:  
 https://nodejs.org
 
 Verify installation:
 ```bash
 node -v
+
 npm -v
+
+if can't see npm version run Powershell script
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
