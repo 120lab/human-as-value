@@ -2,16 +2,12 @@
 
 # env
 
-כתיבת חוזה BEP-20
-Deploy ל-Testnet
-Verify ב-BscScan
-חיבור ל-DEX (PancakeSwap)
+Write Smart contract BEP-20
+Deploy TO-Testnet
+Verify IN BscScan
+Contact to DEX (PancakeSwap)
 Tokenomics + Audit
-אם תרצה:
-🧠 תבנית Tokenomics מקצועית
-🔐 חוזה עם Burn / Mint / Revenue Link
-📊 חיבור לסבסקריפשנים (כמו שדיברנו)
-🧾 מוכנות לאודיט
+
 
 
 # BEP-20 Development Environment Setup (Binance Smart Chain)
